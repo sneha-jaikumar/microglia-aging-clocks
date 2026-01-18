@@ -1,5 +1,7 @@
-# comp683
-Repository for COMP 683 (Computational Biology) Final Project
+# Microglia Aging Clocks
+
+## Abstract
+Microglia are the brain’s primary immune cells, significantly influencing brain development, homeostasis, and injury response. These cells display variable phenotypes and functions as one ages, with the underlying mechanisms responsible for this remaining largely unexplored. Recent studies have linked microglia subtypes to processes involved in neurodevelopment, aging, neurodegeneration, and brain injuries. Our long-term goal is to comprehensively characterize the frequency and functional features of these cells across different conditions and leverage this information to build predictive models. Specifically for this project, we will use single-cell RNA sequencing and bulk RNA sequencing data from microglia isolated from mice and humans to identify subtypes and features/genetic markers predictive of age.
 
 ## Datasets
 1. Fetal microglia data from [Kracht et al. 2020](https://www.science.org/doi/10.1126/science.aba5906) - This dataset includes data on fetal microglia spanning gestational weeks 9 to 18, analyzed and presented in the study. [Download dataset](https://github.com/sneha-jaikumar/comp683/blob/main/adata_merge_fetuses_leiden.h5ad). The metadata can be found [here](https://github.com/sneha-jaikumar/comp683/blob/main/fetuses_metadata.xlsx).
